@@ -1,0 +1,52 @@
+{
+  "author": {
+    "name": "Romain Stiffler",
+    "email": "dev@rstiffler.net"
+  },
+  "bin": {
+    "image4web": "cli.js"
+  },
+  "bugs": {
+    "url": "https://github.com/rstiffler/image4Web/issues"
+  },
+  "dependencies": {
+    "gifsicle": ">=3.0.4",
+    "mozjpeg": ">=4",
+    "pngquant-bin": ">=5",
+    "svgo": ">=1"
+  },
+  "description": "Image compressor for web usage (but not only!)",
+  "devDependencies": {
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "mocha": ">=5"
+  },
+  "files": [
+    "License.txt",
+    "Readme.md",
+    "index.js",
+    "lib/"
+  ],
+  "homepage": "https://github.com/rstiffler/image4Web",
+  "keywords": [
+    "image4Web",
+    "image4-web",
+    "image compressor",
+    "png compressor",
+    "jpg compressor",
+    "jpeg compressor",
+    "svg compressor",
+    "gif compressor"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "image4-web",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rstiffler/image4Web"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "version": "1.0.0"
+}
