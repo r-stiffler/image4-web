@@ -7,7 +7,7 @@
     "image4web": "cli.js"
   },
   "bugs": {
-    "url": "https://github.com/rstiffler/image4Web/issues"
+    "url": "https://github.com/r-stiffler/image4-web/issues"
   },
   "dependencies": {
     "gifsicle": ">=3.0.4",
@@ -27,7 +27,7 @@
     "index.js",
     "lib/"
   ],
-  "homepage": "https://github.com/rstiffler/image4Web",
+  "homepage": "https://github.com/r-stiffler/image4-web",
   "keywords": [
     "image4Web",
     "image4-web",
@@ -43,7 +43,7 @@
   "name": "image4-web",
   "repository": {
     "type": "git",
-    "url": "https://github.com/rstiffler/image4Web"
+    "url": "https://github.com/r-stiffler/image4-web"
   },
   "scripts": {
     "test": "mocha"
